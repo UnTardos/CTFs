@@ -8,7 +8,7 @@ Here are the CTFs write-ups I participated in, as well as the ranking of me/my t
 
 2023 :
 
-    MidnightFlag - Black box : ![12ème](./Scoreboards/2023/Scoreboard_MidnightFlagCTF_2023.png) / 369
+    MidnightFlag - Black box : ![12](./Scoreboards/2023/Scoreboard_MidnightFlagCTF_2023.png) / 369
     BreizhCTF : ![11ème](./Scoreboards/2023/Scoreboard_BreizhCTF_2023.jpg) / 117 (glob://al_elite)
 
 2022 :
